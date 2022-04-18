@@ -1,0 +1,80 @@
+,Web_browser,operating_system,from_url,to_url,city,longitude,latitude,time_zone,time_in,time_out
+31,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:41:16,2012-03-16 18:31:49
+35,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:41:18,2012-03-16 18:31:49
+58,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:41:34,2012-03-16 18:31:49
+59,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:41:35,2012-03-16 18:31:49
+60,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:41:35,2012-03-16 18:16:41
+117,Microsoft Internet Explorer,Windows,direct,www.nasa.gov,Houston,29.775499,-95.415199,America/Chicago,2012-03-16 18:42:19,2012-02-29 18:21:26
+119,Microsoft Internet Explorer,Windows,direct,studentaid.ed.gov,Needham,42.279301,-71.245003,America/New_York,2012-03-16 18:42:19,2011-06-22 14:08:11
+130,Microsoft Internet Explorer,Windows,www.aashtojournal.org,www.dot.ca.gov,Berkeley,37.878101,-122.271004,America/Los_Angeles,2012-03-16 18:42:31,2012-03-14 20:42:43
+150,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:42:51,2012-03-16 18:16:41
+184,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:27,2012-03-16 18:31:49
+192,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:35,2012-03-16 18:31:49
+203,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:46,2012-03-16 18:27:33
+204,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:47,2012-03-16 18:27:33
+216,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:57,2012-03-16 18:31:49
+218,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:43:58,2012-03-16 18:31:49
+306,Safari,iOS,direct,www.fda.gov,Torrance,33.8302,-118.314697,America/Los_Angeles,2012-03-16 18:45:14,2012-03-15 13:32:38
+312,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:45:22,2012-03-16 18:31:49
+316,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:45:29,2012-03-16 18:16:41
+368,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:46:22,2012-03-16 18:31:49
+372,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:46:24,2012-03-16 18:31:49
+382,Firefox,Linux,today.lbl.gov,www.jgi.doe.gov,Albany,37.8895,-122.294701,America/Los_Angeles,2012-03-16 18:46:33,2011-09-21 20:11:35
+398,Firefox,Windows,today.lbl.gov,www.jgi.doe.gov,Berkeley,37.866798,-122.253601,America/Los_Angeles,2012-03-16 18:46:51,2011-09-21 20:11:35
+422,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:47:17,2012-03-16 18:16:41
+473,Microsoft Internet Explorer,Windows,fightbac.org,www.cdc.gov,East Orange,40.763901,-74.212601,America/New_York,2012-03-16 18:47:48,2010-12-15 14:40:29
+476,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:47:50,2012-03-16 18:16:41
+550,Microsoft Internet Explorer,Windows,direct,www.fmcsa.dot.gov,Bellows Falls,43.1731,-72.495697,America/New_York,2012-03-16 18:48:56,2012-01-13 19:34:28
+623,Firefox,Windows,www.facebook.com,www.cdcr.ca.gov,Lady Lake,28.931801,-81.954102,America/New_York,2012-03-16 18:50:09,2009-07-23 14:55:50
+684,Microsoft Internet Explorer,Windows Phone,direct,www.cdcr.ca.gov,Pittsburg,38.0051,-121.838699,America/Los_Angeles,2012-03-16 18:51:15,2009-07-23 14:55:50
+860,Chrome,Windows,www.conferencealerts.com,www.jgi.doe.gov,Riga,56.950001,24.1,Europe/Riga,2012-03-16 18:53:35,2011-02-09 14:02:11
+866,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:53:40,2012-03-16 18:27:33
+889,Microsoft Internet Explorer,Windows,direct,www.dot.ca.gov,Sacramento,38.5765,-121.444504,America/Los_Angeles,2012-03-16 18:53:56,2012-03-14 20:42:43
+915,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:54:23,2012-03-16 18:27:33
+923,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 18:54:23,2012-03-16 18:27:33
+944,Chrome,Windows,direct,www.fda.gov,Oakland,37.794998,-122.219299,America/Los_Angeles,2012-03-16 18:54:40,2012-03-15 13:32:38
+955,Browser not defined,iOS,m.facebook.com,www.cdcr.ca.gov,Winters,38.5602,-121.996101,America/Los_Angeles,2012-03-16 18:54:47,2009-07-23 14:55:50
+1003,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:55:29,2012-03-16 18:31:49
+1004,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:55:29,2012-03-16 18:31:49
+1085,Safari,Macintosh,direct,www.kids.gov,Chicago,41.8675,-87.6744,America/Chicago,2012-03-16 18:57:02,2012-03-15 14:19:00
+1103,Firefox,Windows,today.lbl.gov,www.jgi.doe.gov,Albany,37.8895,-122.294701,America/Los_Angeles,2012-03-16 18:57:21,2011-09-21 20:11:35
+1168,Firefox,Windows,www.indy.gov,www.indy.gov,Wayne,40.054798,-75.408302,America/New_York,2012-03-16 18:58:41,2012-03-12 15:58:45
+1196,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 18:59:10,2012-03-16 18:31:49
+1227,Microsoft Internet Explorer,Windows,www.army.mil,www.army.mil,Akron,41.075199,-81.458099,America/New_York,2012-03-16 18:59:41,2012-01-24 21:27:48
+1427,Browser not defined,iOS,m.facebook.com,www.cdcr.ca.gov,Bakersfield,35.549801,-118.917099,America/Los_Angeles,2012-03-16 19:03:00,2009-07-23 14:55:50
+1459,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:03:31,2012-03-16 18:27:33
+1500,Microsoft Internet Explorer,Windows,www.aashtojournal.org,appropriations.senate.gov,Silver Spring,39.004601,-77.036903,America/New_York,2012-03-16 19:04:13,2012-03-15 19:18:33
+1510,Chrome,Windows,www.facebook.com,www.peacecorps.gov,San Jos,9.9333,-84.083298,America/Costa_Rica,2012-03-16 19:04:29,2011-12-06 16:33:27
+1564,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:05:36,2012-03-16 18:27:33
+1653,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:06:49,2012-03-16 18:27:33
+1682,Microsoft Internet Explorer,Windows,www.fightbac.org,www.cdc.gov,Arkadelphia,34.0555,-93.1894,America/Chicago,2012-03-16 19:06:57,2010-12-15 14:40:29
+1891,Safari,Blackberry,direct,www.cdcr.ca.gov,Rancho Cucamonga,34.143101,-117.615997,America/Los_Angeles,2012-03-16 19:10:37,2009-07-23 14:55:50
+1931,Microsoft Internet Explorer,Windows,direct,www.osha.gov,Fishers,39.960999,-85.983704,America/Indianapolis,2012-03-16 19:11:25,2012-02-01 20:10:14
+2066,Chrome,Windows,direct,clinton3.nara.gov,Cleveland,41.478901,-81.647301,America/New_York,2012-03-16 19:13:44,2011-03-03 11:48:42
+2089,Microsoft Internet Explorer,Windows,bitly.com,www.doe.virginia.gov,Atlanta,33.876701,-84.334099,America/New_York,2012-03-16 19:14:03,2012-03-16 18:08:00
+2121,Microsoft Internet Explorer,Windows,www.aashtojournal.org,appropriations.house.gov,Silver Spring,39.004601,-77.036903,America/New_York,2012-03-16 19:14:39,2012-03-08 19:55:47
+2131,Chrome,Windows,www.indy.gov,www.indy.gov,Warsaw,41.237202,-85.8592,America/Indianapolis,2012-03-16 19:14:52,2012-03-12 15:58:45
+2149,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:15:08,2012-03-16 18:16:41
+2270,Microsoft Internet Explorer,Windows,direct,www.fda.gov,Boca Raton,26.4095,-80.0942,America/New_York,2012-03-16 19:17:28,2012-03-15 13:32:38
+2314,Chrome,Windows,t.co,www.jgi.doe.gov,Marum,53.150002,6.2667,Europe/Amsterdam,2012-03-16 19:18:01,2011-09-21 20:11:35
+2339,Microsoft Internet Explorer,Windows,www.aashtojournal.org,www.dot.ca.gov,Sacramento,38.5765,-121.444504,America/Los_Angeles,2012-03-16 19:18:25,2012-03-14 20:42:43
+2351,AndroidBrowser,Linux,m.facebook.com,www.cdcr.ca.gov,Los Angeles,34.041599,-118.298798,America/Los_Angeles,2012-03-16 19:18:34,2009-07-23 14:55:50
+2353,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:18:38,2012-03-16 18:31:49
+2420,Microsoft Internet Explorer,Windows,direct,www.fda.gov,Ottawa,45.416698,-75.699997,America/Rainy_River,2012-03-16 19:19:46,2011-11-01 14:52:33
+2429,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Mililani,21.4701,-157.963699,Pacific/Honolulu,2012-03-16 19:19:52,2012-03-16 18:16:41
+2464,Microsoft Internet Explorer,Windows,direct,www.us.army.mil,Spring Lake,35.226799,-78.9562,America/New_York,2012-03-16 19:20:24,2010-01-06 20:30:54
+2494,Microsoft Internet Explorer,Windows,www.shoeman.org,www.irs.gov,Jefferson City,38.4814,-92.127296,America/Chicago,2012-03-16 19:20:57,2010-04-13 12:11:50
+2672,Microsoft Internet Explorer,Windows,www.facebook.com,www.benning.army.mil,Chicago,41.8675,-87.6744,America/Chicago,2012-03-16 19:24:33,2010-12-02 07:43:17
+2728,Chrome,Windows,t.co,neo.jpl.nasa.gov,Pietarsaari,63.650002,22.6833,Europe/Helsinki,2012-03-16 19:25:34,2012-03-06 23:12:30
+2732,Microsoft Internet Explorer,Windows,fightbac.org,www.cdc.gov,Tacoma,47.198002,-122.447304,America/Los_Angeles,2012-03-16 19:25:36,2010-12-15 14:40:29
+2838,Firefox,Linux,www.youtube.com,www.copyright.gov,Moscow,41.312,-75.539497,America/New_York,2012-03-16 19:27:16,2012-01-26 00:55:49
+2876,Microsoft Internet Explorer,Windows,direct,www.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:28:05,2012-03-16 18:16:41
+2979,Microsoft Internet Explorer,Windows,www.shoeman.org,www.irs.gov,Jefferson City,38.4814,-92.127296,America/Chicago,2012-03-16 19:30:14,2010-04-13 12:11:50
+2982,Firefox,Windows,direct,dmv.vermont.gov,Lyndonville,44.5326,-72.046997,America/New_York,2012-03-16 19:30:28,2011-01-11 16:16:38
+2991,Firefox,Windows,www.facebook.com,www.cdcr.ca.gov,Ventura,34.286301,-119.2267,America/Los_Angeles,2012-03-16 19:30:46,2009-07-23 14:55:50
+3026,Microsoft Internet Explorer,Windows,direct,www.fda.gov,Ottawa,45.416698,-75.699997,America/Rainy_River,2012-03-16 19:31:37,2011-11-01 14:52:33
+3084,Microsoft Internet Explorer,Windows,direct,www.ncbi.nlm.nih.gov,Ballerup,55.733299,12.3667,Europe/Copenhagen,2012-03-16 19:32:46,2011-03-09 16:02:13
+3092,Microsoft Internet Explorer,Windows,www.facebook.com,www.benning.army.mil,Chicago,41.8675,-87.6744,America/Chicago,2012-03-16 19:32:50,2010-12-02 07:43:17
+3172,Chrome,Macintosh,www.facebook.com,www.ncbi.nlm.nih.gov,Quakers Hill,-33.733299,150.883301,Australia/NSW,2012-03-16 19:34:28,2012-03-16 07:09:17
+3377,Microsoft Internet Explorer,Windows,direct,www.cnic.navy.mil,Honolulu,21.3139,-157.824493,Pacific/Honolulu,2012-03-16 19:39:25,2012-03-16 18:33:32
+3392,Microsoft Internet Explorer,Windows,www.lymphomation.org,seer.cancer.gov,Sheridan,34.290298,-92.384697,America/Chicago,2012-03-16 19:39:45,2009-12-01 10:54:17
